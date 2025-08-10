@@ -2,7 +2,7 @@
 Creating a project which can classify Hand Written Digits into 10 classes (from 0-9) as per the hand written values.
 The model is implemented using neural network and the dataset used in this project is MNIST dataset.
 </br>
-#Implementation Process:
+# Implementation Process:
 1. Load the MNIST dataset using Tensorflow
 2. Build a simple neural network model.
 3. Train model on training data.
